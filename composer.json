@@ -1,0 +1,40 @@
+{
+  "name": "eloom/module-mask-br",
+  "description": "Máscaras Português Brasil para Magento 2",
+  "homepage": "https://www.eloom.com.br/mask-br",
+  "keywords": [
+    "magento",
+    "magento 2",
+    "commerce",
+    "ecommerce",
+    "e-commerce",
+    "shop",
+    "eloom"
+  ],
+  "authors": [
+    {
+      "name": "eloom",
+      "email": "contato@eloom.com.br"
+    }
+  ],
+  "support": {
+    "email": "contato@eloom.com.br"
+  },
+  "require": {
+    "php": "~7.3|~7.4",
+    "magento/framework": "103.0.*",
+    "eloom/module-core": "dev-main"
+  },
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "src/module-mask-br/registration.php"
+    ],
+    "psr-4": {
+      "Eloom\\MaskBr\\": "src/module-mask-br"
+    }
+  }
+}

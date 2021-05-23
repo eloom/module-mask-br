@@ -1,0 +1,1 @@
+var config={config:{mixins:{"mage/validation":{"Eloom_MaskBr/js/validator/cpf-cnpj-validation":!0},"Magento_Checkout/js/view/cart/shipping-estimation":{"Eloom_MaskBr/js/mixin/mask-cart":!0},"Magento_Checkout/js/action/set-shipping-information":{"Eloom_MaskBr/js/mixin/mask-checkout":!0}}}};

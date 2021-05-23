@@ -1,0 +1,1 @@
+define(["uiRegistry","Eloom_MaskBr/js/view/mask-checkout"],function(d,c){return function(e){d.async("checkoutProvider")(function(a){a.on("shippingAddress",function(b){c.apply()});Object.getOwnPropertyNames(a).forEach(function(b,f,g){if(-1!=b.indexOf("billingAddress"))a.on(b,function(h){c.apply()})})});return e}});
