@@ -14,16 +14,16 @@
   "authors": [
     {
       "name": "eloom",
-      "email": "contato@eloom.com.br"
+      "email": "suporte@eloom.com.br"
     }
   ],
   "support": {
-    "email": "contato@eloom.com.br"
+    "email": "suporte@eloom.com.br"
   },
   "require": {
-    "php": "~7.3|~7.4",
-    "magento/framework": "103.0.*",
-    "eloom/module-core": "dev-main"
+    "php": "~7.2|~7.3|~7.4",
+    "magento/framework": "102.0.*|103.0.*",
+    "eloom/module-core": "~1.0.0"
   },
   "license": [
     "OSL-3.0",
