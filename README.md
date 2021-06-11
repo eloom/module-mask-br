@@ -39,11 +39,10 @@ Acesse a página do projeto [Mask BR para Magento 2](https://www.eloom.com.br/ma
 
 Consulte a seção [Instalando o módulo](https://docs.eloom.com.br/pt/mask-br#instalando-o-modulo) do pacote de Máscaras para o Brasil no Magento 2.
 
-
 ## Links
 
 * [Web site](https://www.eloom.com.br/mask-br)
 * [Documentação](https://docs.eloom.com.br/pt/mask-br)
 * [Issue tracker](https://github.com/eloom/module-mask-br/issues)
-* [Composer](https://app.repman.io/organization/eloom-open/package/e5944bd9-ccb0-4c2e-9faf-db966dff8ac0/details)
+* [Composer](https://app.repman.io/organization/eloom/package/e5944bd9-ccb0-4c2e-9faf-db966dff8ac0/details)
 * [Código fonte](https://github.com/eloom/module-mask-br)
