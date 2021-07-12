@@ -1,4 +1,4 @@
-# Pacote de máscaras para o Brasil (Magento 2)
+# Pacote de máscaras para o Brasil para Magento 2
 
 Máscaras para CPF/CNPJ, Telefones e CEP na área do frontend, nas páginas do carrinho de compras, checkout e conta do cliente.
 
