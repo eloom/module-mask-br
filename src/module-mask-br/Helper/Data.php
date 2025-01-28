@@ -3,10 +3,10 @@
 * 
 * MÃ¡scaras PortuguÃªs Brasil para Magento 2
 * 
-* @category     Ã©lOOm
+* @category     elOOm
 * @package      Modulo MaskBr
-* @copyright    Copyright (c) 2021 Ã©lOOm (https://eloom.tech)
-* @version      1.0.2
+* @copyright    Copyright (c) 2025 elOOm (https://eloom.com.br)
+* @version      1.0.0
 * @license      https://opensource.org/licenses/OSL-3.0
 * @license      https://opensource.org/licenses/AFL-3.0
 *
