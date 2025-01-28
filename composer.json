@@ -1,7 +1,7 @@
 {
   "name": "eloom/module-mask-br",
   "description": "Máscaras Português Brasil para Magento",
-  "homepage": "https://eloom.tech/",
+  "homepage": "https://eloom.com.br/",
   "keywords": [
     "magento",
     "magento 2",
@@ -24,8 +24,7 @@
   "prefer-stable" : true,
   "require": {
     "php": "~8.3",
-    "magento/framework": "103.0.*",
-    "eloom/module-core": "dev-main"
+    "magento/framework": "103.0.*"
   },
   "license": [
     "OSL-3.0",
